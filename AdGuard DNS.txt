@@ -1,6 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: AdGuard DNS
 ! Homepage: https://github.com/Plutus1021/rules
+! From: https://filters.adtidy.org/android/filters/15_optimized.txt
 ! Update Time: 2023-11-28 00:00:00（北京时间）
 ! Total Count: 888888
 ! by: Plutus1021
