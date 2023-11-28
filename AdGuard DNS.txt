@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS
 ! Homepage: https://github.com/Plutus1021/rules
 ! Update Time: 2023-11-28 00:00:00（北京时间）
-! Total Count: 58029
+! Total Count: 888888
 ! by: Plutus1021
 ||keefeezo.net^
 ||phaipaun.net^
