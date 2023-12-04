@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title:  AdGuard Chinese filter
+! Title:  AdGuard Chinese
 ! Homepage: https://github.com/Plutus1021/rules
 ! From: https://filters.adtidy.org/extension/ublock/filters/224.txt
 ! Update Time: 2023-12-04 00:00:00（北京时间）
